@@ -8,4 +8,4 @@ dependencies:
   - moviepy
   - matplotlib
   - jupyter
-  - scikit-learns
+  - scikit-learn
